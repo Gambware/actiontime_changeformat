@@ -1,6 +1,6 @@
 <plugin>
     <license>GPLv2+</license>
-    <name>Disable ActionTime</name>
+    <name>actiontime_changeformat</name>
     <version>1.0.0</version>
     <author>Paulo Lima</author>
     <homepage>https://github.com/Gambware</homepage>
